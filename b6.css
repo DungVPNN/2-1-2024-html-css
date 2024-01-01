@@ -1,0 +1,10 @@
+.h1{
+   border: solid blue;
+   width: 0px;
+   background-color: blue; 
+   transition: width 2s, height 4s;
+}
+div:hover{
+    width: 100px;
+    height: 100px;
+}

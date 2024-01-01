@@ -1,0 +1,12 @@
+
+p:hover{
+color: red;
+margin-left: 10px;
+
+}
+.h1{
+    border: 1px solid aqua;
+    width: 300px;
+    background: aqua;
+    font-size: 30px;
+}

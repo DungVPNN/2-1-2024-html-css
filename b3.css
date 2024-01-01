@@ -1,0 +1,31 @@
+.khung{
+    width: 300px;
+    height: 250px;
+    background: aqua;
+}
+.vuong{
+    width: 150px;
+    height: 150px;
+    background: red;
+    position: relative;
+    top: 50px;
+    left: 20px
+}
+.ganvuong{
+    width: 150px;
+    height: 150px;
+    background: rgb(239, 228, 228);
+    position: relative;
+    top: 50px;
+    left: 20px;
+    border-radius: 20%;
+}
+.tron{
+    width: 150px;
+    height: 150px;
+    background: rgb(0, 0, 255);
+    position: relative;
+    top: 50px;
+    left: 20px;
+    border-radius: 100%;
+}

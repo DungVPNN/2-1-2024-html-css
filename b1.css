@@ -1,0 +1,14 @@
+.form{
+    width: 300px;
+    border:  1px solid wheat;
+    background: wheat;
+}
+.form h1{
+    margin-left: 10px;
+}
+.form div{
+    margin-left: 10px;
+}
+.form button{
+    margin-bottom: 20px;
+}
